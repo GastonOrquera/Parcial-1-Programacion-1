@@ -25,7 +25,7 @@ public class Main {
         empresa.mostrarFlota();
 
         System.out.println("\n---- Buscar por tipo Auto ----");
-        empresa.buscarPorTipo();
+        empresa.buscarPorTipo("Auto");
     }
 }
 
